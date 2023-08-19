@@ -7,7 +7,7 @@ public class StreamOps {
 
     List<Customer> customers;
 
-    StreamOps()
+    public StreamOps()
     {
         customers = new ArrayList<Customer>();
 
